@@ -8,7 +8,7 @@ import (
 type TextColor int
 
 const (
-	Black TextColor = iota + 1
+	Black TextColor = iota
 	Red
 	Green
 	Yellow
