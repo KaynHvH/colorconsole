@@ -8,9 +8,9 @@ The ColorConsole package provides a simple Go library for printing colorful text
 
 To use the ColorConsole package, import it into your Go code and use the provided functions to set text and background colors. The package is designed to work on both Windows and Unix-like systems.
 
-``bash
+```bash
 go get github.com/KaynHvH/colorconsole
-``
+```
 ```go
 package example
 
